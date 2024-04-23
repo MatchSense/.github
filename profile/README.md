@@ -1,4 +1,4 @@
-# MatchSense 👋
+# MatchSense 👋 🏉
 
 A global team of Rugby analysts, software developers, designers, and more. We like:
 
